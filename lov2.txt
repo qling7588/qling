@@ -1,7 +1,7 @@
 [c][00FF00]━━━━━━━━━━━━━━━━━━━━━━
 [c] [00FF00]-- QLING Server --
 [c] [00FF00]━━━━━━━━━━━━━━━━━━━━━━
-[c] [FFFFFF] TUỔI LỒN
+[c] [FFFFFF] Lùa gà ít thôi nhé mấy thằng lot
 [c] [FFFFFF]
 [c] [00FF00]━━━━━━━━━━━━━━━━━━━━━━
 [c] [FFFFFF]Tắt Proxy rồi vào lại là đc
